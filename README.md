@@ -62,6 +62,8 @@ stock_prediction/
 3. **Prediction**:
     - Load the trained model using the `load_from_file` method in `StockModel`.
     - Make predictions on new data using the loaded model.
+    - 
+4. **Change the stock symbol in the main.py to predict a different stock price"
 
 ## Dependencies
 
